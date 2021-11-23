@@ -1,0 +1,12 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "simple blockchain in node and typescript",
+  "main": "index.js",
+  "author": "Charles Araújo <charles_araujo@ymail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.11.9",
+    "typescript": "^4.5.2"
+  }
+}
