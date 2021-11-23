@@ -1,6 +1,6 @@
 # Blockchain
 
-a simple blockchain project for study purposes
+a simple blockchain project with proof-of-work validations for study purposes
 
 ### tech stack:
 
