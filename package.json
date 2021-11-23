@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "Charles Araújo <charles_araujo@ymail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "tsc -w",
+    "start": "tsc && node ."
+  },
   "devDependencies": {
     "@types/node": "^16.11.9",
     "typescript": "^4.5.2"
